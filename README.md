@@ -1,6 +1,6 @@
 # Hola, soy Juana 👋
 
-### Desarrolladora Web Frontend · Tecnóloga en Desarrollo de Software
+### Desarrolladora Web Frontend · Ingeniera de Sistemas
 
 Desarrolladora con experiencia construyendo aplicaciones web con **React.js** y
 **JavaScript**. Vengo del mundo del frontend y la infraestructura, y actualmente
