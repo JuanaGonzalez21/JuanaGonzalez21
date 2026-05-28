@@ -1,11 +1,12 @@
 # Hola, soy Juana 👋
 
-### Desarrolladora Web Frontend · Ingeniera de Sistemas
+### Desarrolladora Web Frontend · Ingeniera de Sistemas (graduación: junio 2026)
 
 Desarrolladora con experiencia construyendo aplicaciones web con **React.js** y
-**JavaScript**. Vengo del mundo del frontend y la infraestructura, y actualmente
-curso **Ingeniería de Sistemas** en la Universidad Cooperativa de Colombia.
-Me apasiona crear interfaces limpias, funcionales y bien hechas.
+**JavaScript**. Vengo del mundo del frontend y la infraestructura, y en
+**junio de 2026 me gradúo como Ingeniera de Sistemas** en la Universidad
+Cooperativa de Colombia. Me apasiona crear interfaces limpias, funcionales
+y bien hechas.
 
 - 🔭 Construyendo y puliendo proyectos web para mi portafolio
 - 🌱 Profundizando en React, Node.js e inglés técnico
