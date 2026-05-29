@@ -52,20 +52,14 @@ interfaces limpias, funcionales y bien hechas.
 </div>
 
 ## 📊 Mis estadísticas en GitHub
-
+--
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanaGonzalez21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanaGonzalez21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=JuanaGonzalez21&theme=tokyonight&hide_border=true" alt="Racha de commits" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JuanaGonzalez21&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="Trofeos de GitHub" />
-
+<br/>
 </div>
 
 ## 📌 Proyectos destacados
